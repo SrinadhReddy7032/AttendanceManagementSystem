@@ -1,0 +1,28 @@
+.sri{
+    background-image: url("https://nbkrist.co.in/images/csebuilding.JPG");
+    height: 100vh;
+    background-size: cover;
+
+}
+.j{
+    background-color: aqua;
+    font-style:italic;
+    text-align: center;
+    border-radius: 25px;
+    padding-bottom: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.button{
+    background-color: #aca675;
+    border-radius: 25px;
+    border: 0px;
+    margin: 5px;
+}
+.l{
+    text-align: center;
+    color: rgb(255, 85, 0) 
+}
+.d{
+color: rgb(226, 43, 205);
+}
